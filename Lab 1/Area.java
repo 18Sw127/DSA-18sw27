@@ -9,7 +9,7 @@ this.breadth=breadth;
 }
 
 public int returnArea(){
-int area=length*breadth;
+int area=length*breadth.math.pow();
 
 return area;
 }
