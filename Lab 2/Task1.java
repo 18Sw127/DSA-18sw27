@@ -6,7 +6,7 @@ class Task1
 		int[] array = new int[100];
 		int count =0;
 		int insert=0;
-		while(count<100)
+		while(count<100) //while loop
 		{
 			array[count]=insert;
 			count++;
